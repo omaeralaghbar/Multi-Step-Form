@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/steps-form/static/css/main.95cc8cc5.css",
+    "main.js": "/steps-form/static/js/main.4b302124.js",
+    "index.html": "/steps-form/index.html",
+    "main.95cc8cc5.css.map": "/steps-form/static/css/main.95cc8cc5.css.map",
+    "main.4b302124.js.map": "/steps-form/static/js/main.4b302124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95cc8cc5.css",
+    "static/js/main.4b302124.js"
+  ]
+}
